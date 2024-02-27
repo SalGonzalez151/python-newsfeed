@@ -1,0 +1,15 @@
+venv/
+.env
+
+*.pyc
+__pychace__/
+
+instance/
+
+.pytest_chace/
+.coverage
+htmlcov/
+
+dist/
+build/
+*.egg-info
